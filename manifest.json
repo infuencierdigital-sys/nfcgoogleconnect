@@ -1,0 +1,34 @@
+{
+  "sistema": "Google NFC Connect",
+  "versao_backup": "3.0",
+  "gerado_em": "2026-11-06T15:16:55.564Z",
+  "tipo": "completo",
+  "responsavel": {
+    "email": "motoboybikercourier@gmail.com",
+    "nome": ""
+  },
+  "origem_publica": "https://luxury-paprenjak-b05620.netlify.app",
+  "arquivos_de_codigo": 231,
+  "registros": {
+    "User": 2,
+    "Cliente": 1,
+    "Lead": 25,
+    "LeadInteraction": 11,
+    "Produto": 4,
+    "Pedido": 1,
+    "PlacaNFC": 1,
+    "ServicoCliente": 0,
+    "ServicoAtualizacao": 0,
+    "Relatorio": 0,
+    "Configuracao": 1,
+    "Integracao": 5,
+    "Pagamento": 0,
+    "PagamentoNotificacao": 2,
+    "Representante": 1,
+    "VendaRepresentante": 0,
+    "SolicitacaoPagamento": 0,
+    "CandidatoRepresentante": 1,
+    "AtividadeLog": 96,
+    "SiteCliente": 0
+  }
+}

@@ -1,0 +1,21 @@
+BACKUP DO SISTEMA — GOOGLE NFC CONNECT
+Gerado em: 2026-11-06T15:16:55.564Z
+Responsável: motoboybikercourier@gmail.com
+Tipo: completo
+
+CONTEÚDO
+- sistema/          código do projeto (rotas, páginas, componentes, servidor e configurações)
+- banco-de-dados/   exportação JSON de cada entidade do banco
+- configuracao/     configurações e integrações em vigor
+- estrutura/        lista de entidades e contagens de registros
+- seo/              robots.txt e sitemap.xml
+- manifest.json     metadados, contagens e versão
+
+COMO RESTAURAR
+1. Copie o conteúdo de sistema/ para um projeto (mantendo a estrutura) e rode "npm install".
+2. Publique e cadastre as credenciais listadas em credenciais-necessarias.txt.
+3. Para os dados, use "Restaurar backup" no painel administrativo.
+
+SEGURANÇA
+Este pacote não contém chaves de API, senhas, tokens nem arquivos .env.
+Guarde o arquivo em local protegido: ele contém dados de clientes (LGPD).

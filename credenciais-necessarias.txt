@@ -1,0 +1,14 @@
+CREDENCIAIS NECESSÁRIAS PARA RESTAURAR O SISTEMA
+
+Nenhum valor de chave, senha ou token é incluído neste backup.
+Cadastre os valores novamente no painel (Integrações e APIs / Pagamentos) ou nas
+variáveis de ambiente do projeto antes de publicar a cópia restaurada:
+
+1. GOOGLE_MAPS_API_KEY  — Google Places API (prospecção no CRM)
+2. GROQ_API_KEY         — Groq (análise de leads e mensagens com IA)
+3. WHATSAPP_ACCESS_TOKEN / WHATSAPP_PHONE_NUMBER_ID — WhatsApp Business Platform
+4. Credenciais de pagamento (Mercado Pago / InfinitePay) — salvas no painel,
+   na entidade Integracao (exportadas em branco).
+5. ADMIN_EMAILS — e-mails dos administradores (opcional).
+6. Autenticação (Netlify Identity) e banco de dados (Netlify Database) são
+   fornecidos pela plataforma: as contas de usuário precisam ser convidadas de novo.
